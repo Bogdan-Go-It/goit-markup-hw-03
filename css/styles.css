@@ -457,7 +457,7 @@ button {
   color: var(--color-slate);
 }
 .portfolio-img {
-  border-top: none;
+  width: 100%;
 }
 .first-had {
 }

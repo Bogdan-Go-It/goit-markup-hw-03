@@ -436,7 +436,6 @@ button {
   border: 1px solid #e7e9fc;
 }
 .portfolio-had-container {
-  border-top: none;
   border: 1px solid #e7e9fc;
   padding: 32px 16px;
 }
@@ -457,6 +456,7 @@ button {
   color: var(--color-slate);
 }
 .portfolio-img {
+  border-top: none;
 }
 .first-had {
 }

@@ -346,8 +346,9 @@ button {
 .footer-container {
 }
 .footer-container-logo {
-  /* display: inline-block; */
+  display: inline-block;
   margin-bottom: 16px;
+  width: 300px;
 }
 .studio-footer {
   color: var(--color-cloud);

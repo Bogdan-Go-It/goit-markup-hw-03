@@ -339,6 +339,7 @@ button {
 }
 /* ===============================FOOTER=============================================== */
 .footer {
+  display: inline-block;
   padding-top: 100px;
   padding-bottom: 100px;
   background-color: var(--color-grey);
@@ -346,7 +347,6 @@ button {
 .footer-container {
 }
 .footer-container-logo {
-  /* display: inline-block; */
   margin-bottom: 16px;
 }
 .studio-footer {
